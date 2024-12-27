@@ -12,7 +12,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Scarllet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scarlletgomes)](https://www.linkedin.com/in/scarlletgomes)
-[![Gmail Badge](https://img.shields.io/badge/-scarllet.gomes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scarllet.gomes@gmail.com)](mailto:scarllet.gomes@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scarlletgomes)](https://www.linkedin.com/in/scarlletgomes)
+[![Gmail Badge](https://img.shields.io/badge/-E-mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scarllet.gomes@gmail.com)](mailto:scarllet.gomes@gmail.com)
 
 
