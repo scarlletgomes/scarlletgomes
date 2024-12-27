@@ -5,7 +5,7 @@
 💼 Estagiária no Banco de Brasília (BRB). 
 
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarlletgomes&layout=compact)
